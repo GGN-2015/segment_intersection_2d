@@ -1,0 +1,17 @@
+[project]
+name = "segment-intersection-2d"
+version = "0.1.0"
+description = "Calculate the intersection point of line segments in a two-dimensional plane."
+authors = [
+    {name = "GGN_2015",email = "neko@jlulug.org"}
+]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
